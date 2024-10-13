@@ -3,30 +3,25 @@
 
 #### Me chamo Nicolas da Silva, tenho 19 anos e moro em São Paulo-SP!
 
-
-•📖 Cursando Bacharelado em Jogos Digitais no Senac!
-
-•🎮 Desenvolvedor de jogos na Unity!
-
-•🖌️ Artista Pixel art
-
-
-## Estou Aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nico-blend" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+  <img align="center" alt="Nico-unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  <img align="center" alt="Nico-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</div>
 
 
 
-<!--
-**NicolasSilva24/NicolasSilva24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/NicolasSilva24">
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSilva24&layout=compact&langs_count=7&theme=react"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSilva24&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.artstation.com/nicolas_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ArtStation-0099e5?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_nicolas.arts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://n1cos.itch.io" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolas.silva.contact@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
