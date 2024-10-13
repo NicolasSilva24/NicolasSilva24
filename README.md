@@ -1,4 +1,11 @@
-## Hi there 👋
+# Olá, me chamo Nicolas Silva!
+## Bem vindo ao meu perfil devs!!
+
+
+## Estou Aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+
 
 <!--
 **NicolasSilva24/NicolasSilva24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
