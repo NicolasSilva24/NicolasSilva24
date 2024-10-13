@@ -1,6 +1,8 @@
-# Olá! Seja bem-vindo(a) 💻
+### Olá! Seja bem-vindo(a) 💻
 
-Me chamo Nicolas da Silva, tenho 19 anos e moro em São Paulo-SP!
+
+#### Me chamo Nicolas da Silva, tenho 19 anos e moro em São Paulo-SP!
+
 
 •📖 Cursando Bacharelado em Jogos Digitais no Senac!
 
