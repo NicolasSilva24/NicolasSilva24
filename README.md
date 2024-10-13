@@ -1,5 +1,5 @@
-# Olá, me chamo Nicolas Silva!
-## Bem vindo ao meu perfil devs!!
+# Olá! Seja bem-vindo(a) 💻
+Me chamo Nicolas da Silva, tenho 19 anos e moro em São Paulo-SP!
 
 
 ## Estou Aprendendo
