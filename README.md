@@ -1,5 +1,10 @@
 # Olá! Seja bem-vindo(a) 💻
+
 Me chamo Nicolas da Silva, tenho 19 anos e moro em São Paulo-SP!
+
+•📖 Cursando Bacharelado em Jogos Digitais no Senac!
+•🎮 Desenvolvedor de jogos na Unity!
+•🖌️ Artista Pixel art
 
 
 ## Estou Aprendendo
