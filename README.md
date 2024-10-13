@@ -7,14 +7,16 @@
   <img align="center" alt="Nico-blend" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
   <img align="center" alt="Nico-unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   <img align="center" alt="Nico-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="right" alt="Nico-Art" height="300" widht="300" src=https://cdn.picrew.me/shareImg/org/202410/644129_bvlE8VwN.png>
 </div>
+
 
 
 
 <div>
   <a href="https://github.com/NicolasSilva24">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSilva24&layout=compact&langs_count=7&theme=react"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSilva24&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSilva24&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <div>
