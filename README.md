@@ -4,6 +4,7 @@
 
 <div  align="center" >
   - 🔭 Atualmente estou cursando bacharelado em Jogos Digitais no Senac ...
+  <br>
 </div>
 
 
