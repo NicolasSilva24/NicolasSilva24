@@ -13,16 +13,22 @@
   <img src="https://skillicons.dev/icons?i=blender,cs,github,notion,linkedin,ps,unity,visualstudio" />
 </div>
 
-<div>
-  <a href="https://github.com/NicolasSilva24">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSilva24&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NicolasSilva24&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NicolasSilva24&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasSilva24&show_icons=true" />
+</picture>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nico-blend" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-  <img align="center" alt="Nico-unity" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-  <img align="center" alt="Nico-C#" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-</div>
+<br>
 
 <div>
   <a href="https://www.artstation.com/nicolas_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ArtStation-0099e5?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
