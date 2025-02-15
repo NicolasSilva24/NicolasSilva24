@@ -1,9 +1,10 @@
-### Olá! Seja bem-vindo(a) 💻
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-vindo+✨;+Me+chamo+Nicolas;" />
+</h1>
 
-
-#### Me chamo Nicolas da Silva, tenho 19 anos e moro em São Paulo-SP!
-
-
+<div  align="center" >
+  - 🔭 Atualmente estou cursando bacharelado em Jogos Digitais no Senac ...
+</div>
 
 
 
