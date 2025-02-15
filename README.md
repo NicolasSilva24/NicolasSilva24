@@ -16,7 +16,6 @@
   <img align="center" alt="Nico-blend" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
   <img align="center" alt="Nico-unity" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   <img align="center" alt="Nico-C#" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="right" alt="Nico-Art" height="300" widht="300" src=https://cdn.picrew.me/shareImg/org/202410/644129_bvlE8VwN.png>
 </div>
 
 <div>
