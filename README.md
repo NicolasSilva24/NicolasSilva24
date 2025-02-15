@@ -30,11 +30,6 @@
 </div>
 <br>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=40&duration=4000&pause=1000&color=1CB3AD&background=FFFFFF00&center=true&width=435&lines=Obrigado!;" />
-</h1>
-
-
 <div align="center" >
   <a href="https://www.artstation.com/nicolas_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ArtStation-0099e5?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_nicolas.arts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -42,3 +37,6 @@
   <a href = "mailto:nicolas.silva.contact@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=40&duration=4000&pause=1000&color=1CB3AD&background=FFFFFF00&center=true&width=435&lines=Obrigado!;" />
+</h1>
