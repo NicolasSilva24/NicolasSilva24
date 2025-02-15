@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=blender,cs,github,notion,linkedin,ps,unity,visualstudio" />
 </div>
 
-<h2 align="center" >⚡Stats⚡</h2>
+<h2 align="center" >📊Status📊</h2>
 <br>
 <div align="center" >
   <picture>
