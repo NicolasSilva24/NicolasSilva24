@@ -10,7 +10,6 @@
 <div>
   <a href="https://github.com/NicolasSilva24">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSilva24&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSilva24&layout=compact&langs_count=7&theme=react"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -27,6 +26,3 @@
   <a href = "mailto:nicolas.silva.contact@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-
-![Snake animation](https://github.com/NicolasSilva24/NicolasSilva24/blob/output/github-contribution-grid-snake.svg)
