@@ -30,7 +30,7 @@
 </div>
 <br>
 
-<div>
+<div align="center" >
   <a href="https://www.artstation.com/nicolas_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ArtStation-0099e5?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_nicolas.arts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://n1cos.itch.io" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
