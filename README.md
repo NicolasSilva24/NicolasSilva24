@@ -3,11 +3,15 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou cursando bacharelado em Jogos Digitais no Senac ...
+  - 📖 Atualmente estou cursando bacharelado em Jogos Digitais no Senac ...
   <br>
 </div>
 
-
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=blender,cs,github,notion,linkedin,ps,unity,visualstudio" />
+</div>
 
 <div>
   <a href="https://github.com/NicolasSilva24">
